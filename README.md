@@ -96,12 +96,10 @@ def lambda_handler(event, context):
 | Description                | Screenshot Link |
 |---------------------------|------------------|
 
-| Test setup             | ![](screenshots/
+| Test setup             | 
 | IAM Role setup             | ![](screenshots/iam-role.png)|)|
 
-| S3 Bucket with files       | ![](
-)|
-re.png) |
+| S3 Bucket with files       | ![](.png) |
 | IAM Role setup             | ![](screenshots/iam-role.png)|
 | Lambda Function code       | ![](screenshots/lambda-code.png) |
 | Manual test output         | ![](screenshots/lambda-output.png) |
