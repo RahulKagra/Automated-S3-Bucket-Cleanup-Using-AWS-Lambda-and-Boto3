@@ -102,7 +102,6 @@ re.png) |
 | Manual test output         | ![](screenshots/lambda-output.png) |
 | S3 Bucket after cleanup    | ![](screenshots/s3-bucket-after.png) |
 
-> Replace the image file names above if your screenshots are named differently.
 
 ---
 
