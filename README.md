@@ -95,7 +95,7 @@ def lambda_handler(event, context):
 
 | Description                | Screenshot Link |
 |---------------------------|------------------|
-| S3 Bucket with files       | ![](screenshots/|
+| S3 Bucket with files       | ![](screenshots/https://github.com/RahulKagra/Automated-S3-Bucket-Cleanup-Using-AWS-Lambda-and-Boto3/blob/main/Test%20of%20Setup.png?raw=true|
 re.png) |
 | IAM Role setup             | ![](screenshots/iam-role.png) |
 | Lambda Function code       | ![](screenshots/lambda-code.png) |
